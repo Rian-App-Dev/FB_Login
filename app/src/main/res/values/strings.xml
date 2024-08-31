@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fb_login</string>
+    <string name="number_or_Email">Mobile number or Email</string>
+    <string name="fblogo">fblogo</string>
+    <string name="english_us">English(us)</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="meta">Meta</string>
+    <string name="create_new_account">Create New Account</string>
+</resources>
